@@ -18,4 +18,4 @@
 
 
   - name: deploy to test-server
-    command: docker run -itd -p 8082:8082 itsuryacloud/medicure:1.0
+    command: docker run -itd -p 8082:8082 itsuryacloud/medicure:2.0
